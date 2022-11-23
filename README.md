@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Alona.
+- 👋 Hi, I’m Alona :computer: :camera: :smiley_cat: :mount_fuji: :surfer:.
+
 - 👀 I’m interested in Flutter development and looking for remote Flutter internship/job.
+
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/alona-tepukhina)
 
 <!---
